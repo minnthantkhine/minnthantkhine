@@ -1,25 +1,7 @@
 - 👋 Hi, I’m @minnthantkhine
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# 💫 About Me:
-<br>
+- a passionate student who wants to be a backend developer
 
 
-# 💫 About Me:
-<br>
-
-
-# 💫 About Me:
-<br>
-
-
-# 💫 About Me:
-<br>
 
 
 ## 🌐 Socials:
